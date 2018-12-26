@@ -1,0 +1,10 @@
+/logs
+
+# Other files
+.classpath
+.project
+.settings
+
+# System Files
+.DS_Store
+Thumbs.db
